@@ -1,0 +1,17 @@
+Summary for New Players
+Start the Game:
+
+The game starts with Player 1 as the active player.
+Player's Turn:
+
+Roll the Dice: Click the "Roll Dice" button to roll the dice.
+If the dice shows a number other than 1, that number is added to your current score.
+If the dice shows a 1, your turn ends, you lose your current score, and it's the next player's turn.
+Hold the Score: Click the "Hold" button to add your current score to your total score. Your turn ends, and it's the next player's turn.
+Winning the Game:
+
+The first player to reach 50 points in their total score wins the game.
+New Game:
+
+Click the "New Game" button to reset the game and start over.
+This game is simple and easy to play, but it requires strategy on when to hold your score and when to risk rolling the dice again. Enjoy playing!
